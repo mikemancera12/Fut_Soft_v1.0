@@ -1,0 +1,14 @@
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\bin\Debug\ProyectoFinalAlgoritmica.exe.config
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\bin\Debug\ProyectoFinalAlgoritmica.exe
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\bin\Debug\ProyectoFinalAlgoritmica.pdb
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\bin\Debug\ProyectoFinalAlgoritmica.xml
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\obj\Debug\ProyectoFinalAlgoritmica.Form1.resources
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\obj\Debug\ProyectoFinalAlgoritmica.Resources.resources
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\obj\Debug\ProyectoFinalAlgoritmica.vbproj.GenerateResource.Cache
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\obj\Debug\ProyectoFinalAlgoritmica.exe
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\obj\Debug\ProyectoFinalAlgoritmica.xml
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\obj\Debug\ProyectoFinalAlgoritmica.pdb
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\obj\Debug\ProyectoFinalAlgoritmica.FrmLogin.resources
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\obj\Debug\ProyectoFinalAlgoritmica.frmMenu.resources
+c:\users\miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\obj\Debug\ProyectoFinalAlgoritmica.frmCaja.resources
+C:\Users\Miguel\documents\visual studio 2013\Projects\ProyectoFinalAlgoritmica\ProyectoFinalAlgoritmica\obj\Debug\ProyectoFinalAlgoritmica.frmRegistro.resources

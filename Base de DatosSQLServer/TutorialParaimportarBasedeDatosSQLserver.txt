@@ -1,0 +1,17 @@
+
+Hacer Restauracion de BD en SQLserver2015
+
+- Crear una base de datos en SQLserver en la carpeta de Bases de Datos con el nombre de Futsoft(asi como esta escrito)
+- hacer click derecho sobre Futsoft 
+- Seleccionar la opción Tareas
+- Seleccionar la opción Restaurar
+- Seleccionar Base de Datos
+- Se abrira una ventana nueva, donde hay dos opciones
+- Seleccionar Dispositivo
+- Dar click sobre los tres puntos(...)
+- seleccionar Agregar
+- Seleccionar el archivo Futsoft.bak incluido en la carpeta Base de Datos (SQLserver)
+- Dar click en aceptar
+- Hasta Restaurarla
+
+Con estos paso la aplicacion deberia funcionar al 100% 
